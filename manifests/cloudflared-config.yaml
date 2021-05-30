@@ -1,0 +1,7 @@
+tunnel: 8dd89293-c393-45aa-ba96-2ca9e4752f68
+credentials-file: /home/ubuntu/.cloudflared/8dd89293-c393-45aa-ba96-2ca9e4752f68.json
+
+ingress:
+  - hostname: site.judsonstevens.me
+    service: http://192.168.1.101:32334
+  - service: http_status:404
