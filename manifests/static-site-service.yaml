@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: hugo-personal-site-service
+  namespace: personal-site
+  labels:
+    app: static-site
+spec:
+  type: LoadBalancer
+  ports:
+    - name: http
+      port: 80
+      protocol: TCP
+      targetPort: 80
+  selector:
+    app: static-site
+  sessionAffinity: None
+  externalIPs:
+    - 192.168.1.201
