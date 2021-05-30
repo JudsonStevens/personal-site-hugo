@@ -1,0 +1,8 @@
+# Hugo default output directory
+/public
+
+## OS Files
+# OSX
+.DS_Store
+/manifests/*
+/content/post/ideas
