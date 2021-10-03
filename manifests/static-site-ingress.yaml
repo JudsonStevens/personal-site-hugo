@@ -6,7 +6,7 @@ metadata:
 spec:
   defaultBackend:
     service:
-      name: hugo-personal-site-service
+      name: personal-site-deployment
       port:
         number: 80
   rules:
@@ -17,6 +17,6 @@ spec:
             pathType: Prefix
             backend:
               service:
-                name: hugo-personal-site-service
+                name: personal-site-deployment
                 port:
                   number: 80

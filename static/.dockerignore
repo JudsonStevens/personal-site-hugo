@@ -2,4 +2,4 @@ public/
 .git/
 .gitmodules/
 .gitignore
-content/post/ideas
+post_ideas/

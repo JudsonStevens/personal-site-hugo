@@ -2,11 +2,13 @@
 author = "Judson Stevens"
 title = "About Me"
 description = "About me"
+date = "2021-10-2"
 +++
 
 ## Currently
 
-I'm currently a Tech Team Manager with [Fast Enterprises][8], working on a combination of DevOps, infrastructure, and traditional software development in VB.Net and C#.
+I'm currently a Lead Software Engineer with [Reboot Motion][13], a company providing bio-kinematic and motion analsysis as a service, primarily to Major League Baseball teams.
+Previously I was a Tech Team Manager with [Fast Enterprises][8], working on a combination of DevOps, infrastructure, and traditional software development in VB.Net and C#.
 I also enjoy coding in my off time, where I run a consulting company working in Ruby on Rails and React.
 I've built out several projects for some mid sized organizations including [the Johns Hopkins Hospital][9] and the [Univerisity of Alabama at Birmingham's School of Medicine][10].
 I also really enjoy working with students and alumni from Turing along with veterans and military spouses from [Operation Code][11]; I've provided mentorship, job search coaching, and interview practice for over many folks from these two organizations and others.
@@ -41,7 +43,7 @@ After that, I worked in the bar industry (up to and including owning a bar), ran
 
 ## Contact
 
-If you'd like to get in touch with me (I'm always open to providing advice on the job search or mock interviews), feel free to email me at [Judson@judsonstevens.me](mailto:judson@judsonstevens.me). 
+If you'd like to get in touch with me (I'm always open to providing advice on the job search or mock interviews), feel free to email me at [me@judsonstevens.dev](mailto:me@judsonstevens.dev). 
 If you'd like to reach out about potential contracting opportunities, please feel free to email me at [Judson.Stevens@medpacksolutions.com](mailto:judson.stevens@medpacksolutions.com).
 
 [1]: <https://coes.latech.edu/undergraduate-programs/nanosystems-engineering/> "LA Tech's page about Nanosystems Engineering"
@@ -56,3 +58,4 @@ If you'd like to reach out about potential contracting opportunities, please fee
 [10]: <https://www.uab.edu/medicine/home/> "University of Alabama at Birmingham School of Medicine home page"
 [11]: <https://operationcode.org/> "Operation Code home page"
 [12]: <https://www.sicklecellcenters.org/> "National Alliance for Sickle Cell Centers home page"
+[13]: <https://www.rebootmotion.com/> "Reboot Motion company website"
